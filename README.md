@@ -47,6 +47,7 @@ I am solving these challenges by following **my professional training course** a
 
 ## 📈 Course Progress Tracker
 
-| Day | Question / Challenge | Status | Solution Link |
+| Question | Challenge | Status | Difficulty | Solution Link |
 | :--- | :--- | :--- | :--- |
-| Q.100 | print like this **reverse numbers** | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/100-print-like-this-nested-for/print_like_this_reverse_nested_for.py) |
+| 100 | Print Reverse Number Pattern | ✅ Done | 🟢 Easy | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/100-print-like-this-nested-for/print_like_this_reverse_nested_for.py) |
+| 101 | Print Alphabet Pattern  | ✅ Done | 🟢 Easy | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/101-print-like-this-nested-for/alpha_nested_for.py) |
