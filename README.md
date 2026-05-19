@@ -62,4 +62,5 @@ I am solving these challenges by following **my professional training course** a
 | 111 | login system using an infinite loop | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/111-example-login-app-while/login_app.py) |
 | 112 | PRIME Num while | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/112-prime-num-ten/prime_num_ten.py) |
 | 113 | +ve, -ve Using list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/113-pos-neg-list/positive_negative_list.py) |
+| 114 | Even Odd Numbers and Count List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/tree/main/114-count-display-even-odd-list) |
 | n | XYZ | ⌛ Pending | [View Code]() |
