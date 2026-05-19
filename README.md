@@ -47,7 +47,15 @@ I am solving these challenges by following **my professional training course** a
 
 ## 📈 Course Progress Tracker
 
-| Question | Challenge | Status | Difficulty | Solution Link |
-| :--- | :--- | :--- | :--- | :---
-| 100 | Print Reverse Number Pattern Using Nested Loop | ✅ Done | 🟢 Easy | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/100-print-like-this-nested-for/print_like_this_reverse_nested_for.py) |
-| 101 | Print Alphabet Pattern Using Nested Loop | ✅ Done | 🟢 Easy | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/101-print-like-this-nested-for/alpha_nested_for.py) |
+| Question | Challenge | Status | Solution Link |
+| :--- | :--- | :---  | :---
+| 100 | Print Reverse Number Pattern Using Nested Loop | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/100-print-like-this-nested-for/print_like_this_reverse_nested_for.py) |
+| 101 | Print Alphabet Pattern Using Nested Loop | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/101-print-like-this-nested-for/alpha_nested_for.py) |
+| 103 | Print Reverse Number | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/103-print-like-this-nest-loop/print_num.py) |
+| 104 | Print like Half Parameter num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/104-print-like-this-nest-loop/like_this.py) |
+| 105 | LeetCode-1  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/105-LeetCode-1/like_this.py) |
+| 106 | One-Ten While  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-one-ten-while/one_ten_while.py) |
+| 107 | PRIME Include break  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-prime-break/prime_break.py) |
+| 108 | Generate *2 Num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/107-multiplication-table-generator-while/multiplication_table.py) |
+| 10 | Print  | ✅ Done | [View Code]() |
+| 10 | Print  | ✅ Done | [View Code]() |
