@@ -57,5 +57,9 @@ I am solving these challenges by following **my professional training course** a
 | 106 | One-Ten While  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-one-ten-while/one_ten_while.py) |
 | 107 | PRIME Include break  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-prime-break/prime_break.py) |
 | 108 | Generate *2 Num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/107-multiplication-table-generator-while/multiplication_table.py) |
-| 10 | Print  | ✅ Done | [View Code]() |
-| 10 | Print  | ✅ Done | [View Code]() |
+| 109 | Print Like This  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/109-print-like-while/print_like_while.py) |
+| 110 | PRIME Num inc break | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/110-prime-break/prime_break.py) |
+| 111 | login system using an infinite loop | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/111-example-login-app-while/login_app.py) |
+| 112 | PRIME Num while | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/112-prime-num-ten/prime_num_ten.py) |
+| 113 | +ve, -ve Using list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/113-pos-neg-list/positive_negative_list.py) |
+| n | XYZ | ⌛ Pending | [View Code]() |
