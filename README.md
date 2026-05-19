@@ -66,4 +66,5 @@ I am solving these challenges by following **my professional training course** a
 | 115 | Reversed Order List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/115-reverse-order-list/reverse_list.py) |
 | 116 | Sum of list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/116-sum-of-list/sum-of-list-len.py) |
 | 117 | Smallest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/117-smallest-num-list/smallest_lnum_list.py) |
+| 118 | Largest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/118-largest-num-list/largest_num_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
