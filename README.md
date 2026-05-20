@@ -67,4 +67,5 @@ I am solving these challenges by following **my professional training course** a
 | 116 | Sum of list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/116-sum-of-list/sum-of-list-len.py) |
 | 117 | Smallest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/117-smallest-num-list/smallest_lnum_list.py) |
 | 118 | Largest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/118-largest-num-list/largest_num_list.py) |
+| 119 | Min, Max, Last in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/119-largest-seclsrg-last-list/max_min_last_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
