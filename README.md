@@ -68,4 +68,5 @@ I am solving these challenges by following **my professional training course** a
 | 117 | Smallest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/117-smallest-num-list/smallest_lnum_list.py) |
 | 118 | Largest Numbers in list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/118-largest-num-list/largest_num_list.py) |
 | 119 | Min, Max, Last in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/119-largest-seclsrg-last-list/max_min_last_list.py) |
+| 120 | Calculate the Sum of a List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/120-sum-of-list/sum_of_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
