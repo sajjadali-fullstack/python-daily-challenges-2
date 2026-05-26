@@ -71,5 +71,5 @@ I am solving these challenges by following **my professional training course** a
 | 120 | Calculate the Sum of a List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/120-sum-of-list/sum_of_list.py) |
 | 121 | Sum of Four List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/121-sum-of-first-four-list/sum_of_four_list.py) |
 | 123 | Max in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/122-find-max-in-list/max_in_list.py) |
-| n | XYZ | ✅ Done | [View Code]() |
+| 124 | Find Median in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/123-find-median-list/find_median_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
