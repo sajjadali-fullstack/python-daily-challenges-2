@@ -73,6 +73,6 @@ I am solving these challenges by following **my professional training course** a
 | 122 | Max in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/122-find-max-in-list/max_in_list.py) |
 | 123 | Find Median in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/123-find-median-list/find_median_list.py) |
 | 124 | Append Five Values List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/124-append-five-val-list/app_five-value-list.py) |
-| n | XYZ | ⌛ Pending | [View Code]() |
-| n | XYZ | ⌛ Pending | [View Code]() |
+| 125 | Read Score Append List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/125-read-scores-list/read_players_scores.py) |
+| n | XYZ | ✅ Done | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
