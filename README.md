@@ -55,10 +55,10 @@ I am solving these challenges by following **my professional training course** a
 | 104 | Print like Half Parameter num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/104-print-like-this-nest-loop/like_this.py) |
 | 105 | LeetCode-1  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/105-LeetCode-1/like_this.py) |
 | 106 | One-Ten While  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-one-ten-while/one_ten_while.py) |
-| 107 | PRIME Include break  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-prime-break/prime_break.py) |
-| 108 | Generate *2 Num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/107-multiplication-table-generator-while/multiplication_table.py) |
-| 109 | Print Like This  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/109-print-like-while/print_like_while.py) |
-| 110 | PRIME Num inc break | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/110-prime-break/prime_break.py) |
+| 106 | PRIME Include break  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/106-prime-break/prime_break.py) |
+| 107 | Generate *2 Num  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/107-multiplication-table-generator-while/multiplication_table.py) |
+| 108 | Print Like This  | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/109-print-like-while/print_like_while.py) |
+| 119 | PRIME Num inc break | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/110-prime-break/prime_break.py) |
 | 111 | login system using an infinite loop | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/111-example-login-app-while/login_app.py) |
 | 112 | PRIME Num while | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/112-prime-num-ten/prime_num_ten.py) |
 | 113 | +ve, -ve Using list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/113-pos-neg-list/positive_negative_list.py) |
@@ -70,6 +70,9 @@ I am solving these challenges by following **my professional training course** a
 | 119 | Min, Max, Last in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/119-largest-seclsrg-last-list/max_min_last_list.py) |
 | 120 | Calculate the Sum of a List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/120-sum-of-list/sum_of_list.py) |
 | 121 | Sum of Four List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/121-sum-of-first-four-list/sum_of_four_list.py) |
-| 123 | Max in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/122-find-max-in-list/max_in_list.py) |
-| 124 | Find Median in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/123-find-median-list/find_median_list.py) |
+| 122 | Max in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/122-find-max-in-list/max_in_list.py) |
+| 123 | Find Median in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/123-find-median-list/find_median_list.py) |
+| 124 | XYZ | ⌛ Pending | [View Code]() |
+| n | XYZ | ⌛ Pending | [View Code]() |
+| n | XYZ | ⌛ Pending | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
