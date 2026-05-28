@@ -72,7 +72,7 @@ I am solving these challenges by following **my professional training course** a
 | 121 | Sum of Four List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/121-sum-of-first-four-list/sum_of_four_list.py) |
 | 122 | Max in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/122-find-max-in-list/max_in_list.py) |
 | 123 | Find Median in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/123-find-median-list/find_median_list.py) |
-| 124 | XYZ | ⌛ Pending | [View Code]() |
+| 124 | Append Five Values List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/124-append-five-val-list/app_five-value-list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
