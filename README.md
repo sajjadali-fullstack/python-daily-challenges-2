@@ -72,4 +72,5 @@ I am solving these challenges by following **my professional training course** a
 | 125 | Read Score Append List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/125-read-scores-list/read_players_scores.py) |
 | 126 | Filter Data: Even & Odd | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/126-filter-data-list/filter_even_odd_list.py) |
 | 127 | Swap List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/127-swapping-list/swap_list.py) |
+| 128 | User Swap Elements in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/128-user-swap-two-element-list/user_swap_elements.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
