@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/sajjadali-fullstack/python-daily-challenges?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/sajjadali-fullstack/python-daily-challenges?style=for-the-badge&color=orange" />
-</p>
-  
+
 ![Milestone](https://img.shields.io/badge/Milestone-100%20Problems%20Completed-gold?style=for-the-badge&logo=target)
 
 ---
