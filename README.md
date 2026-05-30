@@ -74,4 +74,5 @@ I am solving these challenges by following **my professional training course** a
 | 127 | Swap List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/127-swapping-list/swap_list.py) |
 | 128 | User Swap Elements in List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/128-user-swap-two-element-list/user_swap_elements.py) |
 | 129 | Bubble Sorting List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/129-bubble-sorting-list/bubbles_sorting_list.py) |
+| 130 | Remove Duplicate elements in the list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/130-remove-dupliacte-list/remove_duplicate_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
