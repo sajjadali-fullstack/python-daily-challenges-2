@@ -76,4 +76,6 @@ I am solving these challenges by following **my professional training course** a
 | 129 | Bubble Sorting List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/129-bubble-sorting-list/bubbles_sorting_list.py) |
 | 130 | Remove Duplicate elements in the list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/130-remove-dupliacte-list/remove_duplicate_list.py) |
 | 131 | Remove Duplicate same elements in the list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/131-remove-givenval-list/remove_value_list.py) |
+| 132 | Remove given values from list | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/132-read-n-value-remove-same/read_val_same_del_list.py) |
+| n | XYZ | ⌛ Pending | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
