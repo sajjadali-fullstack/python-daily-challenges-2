@@ -1,4 +1,4 @@
-# WAP Remove Multiple elements from a list in python
+# WAP Remove Even elements from a list in python
 
 list1 = [4, 9, 2, 3, 1, 11, 13, 17, 23, 8, 12, 16, 18, 20, 22]
 
