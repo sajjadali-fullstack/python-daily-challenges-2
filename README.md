@@ -1,10 +1,6 @@
 
 ![Milestone](https://img.shields.io/badge/Milestone-100%20Problems%20Completed-gold?style=for-the-badge&logo=target)
 
-
----
-
-
 # <img src="https://skillicons.dev/icons?i=python" height="40"/> Python Daily Challenges 
 
 **If these challenges helped you, please give a ⭐. It helps me stay motivated!**
