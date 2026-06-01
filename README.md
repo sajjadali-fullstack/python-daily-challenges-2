@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
 ![Milestone](https://img.shields.io/badge/Milestone-100%20Problems%20Completed-gold?style=for-the-badge&logo=target)
- </h1>
+ </p>
 
 ---
 
