@@ -83,6 +83,6 @@ I am solving these challenges by following **my professional training course** a
 | 139 | Add 2 Matrix Nested List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/139-martrix-add-nes-list/add_matrix_nested_list.py) |
 | 140 | List Comprehension with 0 filled 100 values | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/140-list-comprehension-zero/zero_list.py) |
 | 141 | List comprehension with Alphabets from A-Z | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/141-list-comprehension-alphabhet/List_comprehension%20_aphabets.py) |
-| 142 | XYZ | ✅ Done | [View Code]() |
+| 142 | List comprehension with Alphabets from a-z | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/142-list-comprehension-alphabhet-a-z/lcomprehension_ist.py) |
 | 143 | XYZ | ✅ Done | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
