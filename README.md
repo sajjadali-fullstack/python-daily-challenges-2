@@ -84,5 +84,5 @@ I am solving these challenges by following **my professional training course** a
 | 140 | List Comprehension with 0 filled 100 values | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/140-list-comprehension-zero/zero_list.py) |
 | 141 | List comprehension with Alphabets from A-Z | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/141-list-comprehension-alphabhet/List_comprehension%20_aphabets.py) |
 | 142 | List comprehension with Alphabets from a-z | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/142-list-comprehension-alphabhet-a-z/lcomprehension_ist.py) |
-| 143 | XYZ | ✅ Done | [View Code]() |
+| 143 | List comprehension all names in uppercase | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/143-list-comprehension-names-uppercase/list_comp_%20names%20_uppercase.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
