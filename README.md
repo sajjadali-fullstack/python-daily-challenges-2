@@ -79,4 +79,5 @@ I am solving these challenges by following **my professional training course** a
 | 135 | Read Elements Nested List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/135-read-ele-nested-list/read_ele_nested_list.py) |
 | 136 | Read Elements From Nested List Without Index | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/136-read-element-list-without-index/read_ele_without_index_list.py) |
 | 137 | Create 3x3 Matrix using input | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/137-matrix-3x3-nested-list/matrix_list.py) |
+| 138 | Read marks for 3 students and 3 subjects (3x3) | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/138-read-marks-3-students-3x3-nes-list/read_marks_3x3_nes_list.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
