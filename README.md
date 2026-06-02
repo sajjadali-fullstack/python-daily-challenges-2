@@ -81,4 +81,8 @@ I am solving these challenges by following **my professional training course** a
 | 137 | Create 3x3 Matrix using input | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/137-matrix-3x3-nested-list/matrix_list.py) |
 | 138 | Read marks for 3 students and 3 subjects (3x3) | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/138-read-marks-3-students-3x3-nes-list/read_marks_3x3_nes_list.py) |
 | 139 | Add 2 Matrix Nested List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/139-martrix-add-nes-list/add_matrix_nested_list.py) |
+| 140 | List Comprehension with 0 filled 100 values | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/140-list-comprehension-zero/zero_list.py) |
+| 141 | XYZ | ✅ Done | [View Code]() |
+| 142 | XYZ | ✅ Done | [View Code]() |
+| 143 | XYZ | ✅ Done | [View Code]() |
 | n | XYZ | ⌛ Pending | [View Code]() |
