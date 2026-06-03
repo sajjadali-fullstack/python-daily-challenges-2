@@ -87,7 +87,7 @@ I am solving these challenges by following **my professional training course** a
 | 143 | List comprehension all names in uppercase | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/143-list-comprehension-names-uppercase/list_comp_%20names%20_uppercase.py) |
 | 144 | List comprehension 1-10 number adding | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/144-list-comprehnsion-adding/adding_list_comp.py) |
 | 145 | Extract First Character List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/145-extract-first-chaR-string-from-list/extract_first_char.py) |
-| 146 | XYZ | ✅ Done | [View Code]() |
+| 146 | list with n values Without Comprehension & with Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/146-create-list-comp-without-compr/list_compre.py) |
 | 147 | XYZ | ✅ Done | [View Code]() |
 | 148 | XYZ | ✅ Done | [View Code]() |
 | 149 | XYZ | ✅ Done | [View Code]() |
