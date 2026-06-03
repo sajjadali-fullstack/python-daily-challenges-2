@@ -89,7 +89,7 @@ I am solving these challenges by following **my professional training course** a
 | 145 | Extract First Character List | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/145-extract-first-chaR-string-from-list/extract_first_char.py) |
 | 146 | list with n values Without Comprehension & with Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/146-create-list-comp-without-compr/list_compre.py) |
 | 147 |  WAP to read 2X2 matrix Without Comprehension & with Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/147-matrix-without-comp-with-comp/matrix_comp.py) |
-| 148 | XYZ | ✅ Done | [View Code]() |
+| 148 | Filter Positive and Negative Without & With Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/148-filter-positive-negative-list-comp/filter_positive_negative_list.py) |
 | 149 | XYZ | ✅ Done | [View Code]() |
 | 150 | XYZ | ✅ Done | [View Code]() |
 | 151 | XYZ | ✅ Done | [View Code]() |
