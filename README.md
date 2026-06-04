@@ -93,4 +93,5 @@ I am solving these challenges by following **my professional training course** a
 | 149 | XYZ | Filter Even Odd List comprehension | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/149-filter-even-odd-list-compr/even_odd_list.py) |
 | 150 | Display Grade With Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/150-grade-list-comprehension/grade_list_comp.py) |
 | 151 | Assignment 1 : FIRST, SECOND & LAST ELEMENT IN THE LIST | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/151-Assignment-1/first_sec_last.py) |
+| n | Assignment 2 : Print Q's Wise | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/152-Assignment-2/print_element.py) |
 | n | XYZ | ⌛ Pending | [View Code]() |
