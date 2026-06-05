@@ -92,11 +92,11 @@ I am solving these challenges by following **my professional training course** a
 | 148 | Filter Positive and Negative Without & With Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/148-filter-positive-negative-list-comp/filter_positive_negative_list.py) |
 | 149 | Filter Even Odd List comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/149-filter-even-odd-list-compr/even_odd_list.py) |
 | 150 | Display Grade With Comprehension | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/150-grade-list-comprehension/grade_list_comp.py) |
-| 151 | Assignment 1 : FIRST, SECOND & LAST ELEMENT IN THE LIST | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/151-Assignment-1/first_sec_last.py) |
-| 153 | Assignment 2 : Print Q's Wise | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/152-Assignment-2/print_element.py) |
-| 154 | Assignment 3 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/153-Assignment-3/display_accordingly.py) |
-| 155 | Assignment 4 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/154-Assignment-4/display_accordingly.py) |
-| 156 | Assignment 5 : | ✅ Done | [View Code]() |
-| 157 | Assignment 6 : | ✅ Done | [View Code]() |
+| 151 | QST Assignment 1 : FIRST, SECOND & LAST ELEMENT IN THE LIST | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/151-Assignment-1/first_sec_last.py) |
+| 153 | QST Assignment 2 : Print Q's Wise | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/152-Assignment-2/print_element.py) |
+| 154 | QST Assignment 3 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/153-Assignment-3/display_accordingly.py) |
+| 155 | QST Assignment 4 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/154-Assignment-4/display_accordingly.py) |
+| 156 | QST Assignment 5 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/156-Assignment-6/display_accordingly.py) |
+| 157 | QST Assignment 6 : | ✅ Done | [View Code]() |
 | 158 | XYZ | ⌛ Pending | [View Code]() |
 | 159 | XYZ | ⌛ Pending | [View Code]() |
