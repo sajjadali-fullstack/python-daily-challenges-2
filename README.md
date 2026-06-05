@@ -95,7 +95,7 @@ I am solving these challenges by following **my professional training course** a
 | 151 | Assignment 1 : FIRST, SECOND & LAST ELEMENT IN THE LIST | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/151-Assignment-1/first_sec_last.py) |
 | 153 | Assignment 2 : Print Q's Wise | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/152-Assignment-2/print_element.py) |
 | 154 | Assignment 3 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/153-Assignment-3/display_accordingly.py) |
-| 155 | Assignment 4 : | ✅ Done | [View Code]() |
+| 155 | Assignment 4 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/154-Assignment-4/display_accordingly.py) |
 | 156 | Assignment 5 : | ✅ Done | [View Code]() |
 | 157 | Assignment 6 : | ✅ Done | [View Code]() |
 | 158 | XYZ | ⌛ Pending | [View Code]() |
