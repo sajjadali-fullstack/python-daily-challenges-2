@@ -98,5 +98,5 @@ I am solving these challenges by following **my professional training course** a
 | 155 | QST Assignment 4 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/154-Assignment-4/display_accordingly.py) |
 | 156 | QST Assignment 5 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/156-Assignment-6/display_accordingly.py) |
 | 157 | QST Assignment 6 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/157-Assignment-7/display_accordingly.py) |
-| 158 | XYZ | ⌛ Pending | [View Code]() |
+| 158 | QST Assignment 7 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/158-Assignment-8/display_accordingly.py) |
 | 159 | XYZ | ⌛ Pending | [View Code]() |
