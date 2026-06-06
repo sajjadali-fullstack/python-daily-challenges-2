@@ -100,3 +100,10 @@ I am solving these challenges by following **my professional training course** a
 | 157 | QST Assignment 6 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/157-Assignment-7/display_accordingly.py) |
 | 158 | QST Assignment 7 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/158-Assignment-8/display_accordingly.py) |
 | 159 | Conver Upper and Count Length | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/159-conver-upper-len-nested-list/conver_nested_list.py) |
+| 160 | h | ✅ Done | [View Code]() |
+| 161 | h | ✅ Done | [View Code]() |
+| 162 | h | ✅ Done | [View Code]() |
+| 163 | h | ✅ Done | [View Code]() |
+| 164 | h | ✅ Done | [View Code]() |
+| 165 | h | ✅ Done | [View Code]() |
+| 166 | h | ✅ Done | [View Code]() |
