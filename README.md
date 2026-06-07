@@ -104,6 +104,6 @@ I am solving these challenges by following **my professional training course** a
 | 161 | Find Length of String (Count of Characters) | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/161-count-string/length_string.py) |
 | 162 | Count Alphabets, Digits and Special char using unpacking | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/162-count-alpha-num-spe-unpacking/count_all_unpacking.py) |
 | 163 | Check Palindrome | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/163-str-palindrome/check_palindrome.py) |
-| 164 | h | ✅ Done | [View Code]() |
+| 164 | check str symmetrical, Palindrome or not | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/164-synmetrical-palindrome-or-not/synmetrical_palindrome.py) |
 | 165 | h | ✅ Done | [View Code]() |
 | 166 | h | ✅ Done | [View Code]() |
