@@ -105,5 +105,5 @@ I am solving these challenges by following **my professional training course** a
 | 162 | Count Alphabets, Digits and Special char using unpacking | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/162-count-alpha-num-spe-unpacking/count_all_unpacking.py) |
 | 163 | Check Palindrome | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/163-str-palindrome/check_palindrome.py) |
 | 164 | check str symmetrical, Palindrome or not | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/164-synmetrical-palindrome-or-not/synmetrical_palindrome.py) |
-| 165 | h | ✅ Done | [View Code]() |
+| 165 | Rev Word given Str in Python join() | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/165-reverse-word-givin-str/reverse_word_str.py) |
 | 166 | h | ✅ Done | [View Code]() |
