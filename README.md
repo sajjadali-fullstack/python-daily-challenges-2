@@ -101,7 +101,7 @@ I am solving these challenges by following **my professional training course** a
 | 158 | QST Assignment 7 : | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/158-Assignment-8/display_accordingly.py) |
 | 159 | Conver Upper and Count Length | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/159-conver-upper-len-nested-list/conver_nested_list.py) |
 | 160 | Add Two Numbers map() | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/160-add-two-nums-map-split/add_nums_split_map.py) |
-| 161 | h | ✅ Done | [View Code]() |
+| 161 | Find Length of String (Count of Characters) | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/161-count-string/length_string.py) |
 | 162 | h | ✅ Done | [View Code]() |
 | 163 | h | ✅ Done | [View Code]() |
 | 164 | h | ✅ Done | [View Code]() |
