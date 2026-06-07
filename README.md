@@ -103,7 +103,7 @@ I am solving these challenges by following **my professional training course** a
 | 160 | Add Two Numbers map() | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/160-add-two-nums-map-split/add_nums_split_map.py) |
 | 161 | Find Length of String (Count of Characters) | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/161-count-string/length_string.py) |
 | 162 | Count Alphabets, Digits and Special char using unpacking | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/162-count-alpha-num-spe-unpacking/count_all_unpacking.py) |
-| 163 | h | ✅ Done | [View Code]() |
+| 163 | Check Palindrome | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/163-str-palindrome/check_palindrome.py) |
 | 164 | h | ✅ Done | [View Code]() |
 | 165 | h | ✅ Done | [View Code]() |
 | 166 | h | ✅ Done | [View Code]() |
