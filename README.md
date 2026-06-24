@@ -110,4 +110,5 @@ I am solving these challenges by following **my professional training course** a
 | 167 | Convert Lower Without Built-In | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/167-convert-lower-without-built-in/convert_lower.py) |
 | 168 | Swapcase Without Built-In | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/168-swapecase-without-built-in/swapecase.py) |
 | 169 | Verify String Or Not | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/169-verify-str-contains-alphabets/verify_alphabhet.py) |
-| n | xyz | ⏳ Pending | [View Code]() |
+| 170 | String Center | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/170-str-center/str_center.py) |
+| 171 | xyz | ⏳ Pending | [View Code]() |
