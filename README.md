@@ -113,4 +113,4 @@ I am solving these challenges by following **my professional training course** a
 | 170 | String Center | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/170-str-center/str_center.py) |
 | 171 | String ljust rjust | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/171-string-ljust-rjust/str_ljust_rjust.py) |
 | 172 | Assignment 8 Set to Tuple | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/172-Assignment-9/name_age_tuple.py) |
-| 173 | xyz | ⏳ Pending | [View Code]() |
+| 173 | Tuple Name Slicing | ✅ Done | [View Code](https://github.com/sajjadali-fullstack/python-daily-challenges-2/blob/main/173-tuple-slicing/tuple_name_slic.py) |
