@@ -17,5 +17,7 @@ s1 = set(map(int, input("Enter values : ").split()))
 n2 = int(input("Enter how many values u wanna enter : "))
 s2 = set(map(int, input("Enter values : ").split()))
 
-print(s1.symmetric_difference(s2))
-
+# print(s1.symmetric_difference(s2))
+s3 = s1 ^ s2
+for i in s3:
+    print(i)
