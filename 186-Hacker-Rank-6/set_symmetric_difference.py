@@ -1,0 +1,21 @@
+# Write a Python program to perform the symmetric difference operation on two sets and print the non-common elements.
+
+# Input
+'''
+Enter how many values u wanna enter : 5
+Enter values : 1 2 3 4 5
+
+Enter how many values u wanna enter : 5
+Enter values : 3 4 5 6 7
+'''
+# Output
+# {1, 2, 6, 7}
+
+n = int(input("Enter how many values u wanna enter : "))
+s1 = set(map(int, input("Enter values : ").split()))
+
+n2 = int(input("Enter how many values u wanna enter : "))
+s2 = set(map(int, input("Enter values : ").split()))
+
+print(s1.symmetric_difference(s2))
+
