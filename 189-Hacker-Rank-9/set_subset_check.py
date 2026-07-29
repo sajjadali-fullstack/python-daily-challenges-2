@@ -14,7 +14,11 @@ Enter elements of Set B: 1 2 3 4 5 6 7
 # True
 
 
-
+# FOR REMEMBERING ME
+'''
+Subset = "Chhota set poora ka poora bade set ke andar hona chahiye."
+Agar A ka ek bhi element B mein nahi mila, to result False hoga.
+'''
 
 T = int(input("Enter number of test cases: "))
 
