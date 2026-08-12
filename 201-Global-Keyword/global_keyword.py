@@ -1,0 +1,1 @@
+# to demonstrate the use of the global keyword to modify a global variable inside a function.
