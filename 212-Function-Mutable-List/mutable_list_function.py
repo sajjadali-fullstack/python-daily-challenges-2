@@ -1,4 +1,4 @@
-
+# WAP to demonstrate how a mutable list can be modified inside a function by passing the list as an argument.
 
 
 
