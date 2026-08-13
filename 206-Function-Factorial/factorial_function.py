@@ -10,4 +10,8 @@ def factorial(num:int) -> int:
 
 number = int(input("Enter any number : "))
 res = factorial(number)
+
 print(f'Factorial of {number} is {res}')
+
+
+print(4 * 3 * 2* 1)
